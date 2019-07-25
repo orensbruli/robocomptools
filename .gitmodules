@@ -1,0 +1,2 @@
+[submodule "rcmanager/widgets/QNetworkxGraph"]
+	url = https://github.com/orensbruli/QNetworkxGraph.git
